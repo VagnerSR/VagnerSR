@@ -12,7 +12,7 @@ I have been working at a notary office for nine years. During this time, I have 
 
 ### Connect with me!
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:rosnoski.vagner@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](rosnoski.vagner@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/vagner-da-silva-rosnoski)
 
 ### My Stack
