@@ -4,7 +4,6 @@
 - 🌎 I'm from Brazil
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: rosnoski.vagner@gmail.com
-- 😄 Pronouns: He/Him
 
 ### About me!
 
