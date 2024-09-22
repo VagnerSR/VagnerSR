@@ -2,7 +2,7 @@
 
 
 - 🌎 I'm from Brazil
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Statistics
 - 📫 How to reach me: rosnoski.vagner@gmail.com
 
 ### About me!
